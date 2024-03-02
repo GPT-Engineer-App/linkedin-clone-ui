@@ -10,8 +10,8 @@ const Index = () => {
     <Box>
       {/* Navbar */}
       <Flex bg={navbarBg} paddingY="2" justifyContent="space-between" alignItems="center">
-        <Heading marginLeft="8" size="md" colorScheme="blue">
-          LinkedIn
+        <Heading marginLeft="8" size="md">
+          Franchise King
         </Heading>
         <InputGroup width="md" marginRight="8">
           <InputLeftElement pointerEvents="none" children={<FaSearch color="gray.300" />} />
